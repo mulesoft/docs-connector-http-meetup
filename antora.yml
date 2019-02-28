@@ -1,5 +1,5 @@
 name: connectors
-title: Connectors
+title: HTTP Connector
 version: '1.5'
 nav:
 - modules/ROOT/nav.adoc
