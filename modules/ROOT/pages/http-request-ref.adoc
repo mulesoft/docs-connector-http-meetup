@@ -45,7 +45,7 @@ In General > Request > Query Parameters, click the plus icon (`+`) to add a para
 
 You configure a URI parameter when you want to use a placeholder, such as `/customer/{customerId}`, in the path of your request. To configure a URI parameter, type the placeholder enclosed in curly brackets in the Path field. Select URI Parameters, click `+`, and enter a name and value. For example, enter *customerId* and *20* as the name and value.
 
-image::http-mule4-uriparams.png[]
+image::http/http-mule4-uriparams.png[]
 
 Alternatively, you can use DataWeave expressions in the name and value fields.
 
@@ -149,7 +149,3 @@ By default, the `streamResponse` attribute is set to false. When setting this at
 ----
 
 To avoid issues, it's important to consume responses when streaming.
-
-== See Also
-
-* xref:4.1@mule-runtime::intro-engine.adoc#thread-pools-and-tuning-apps[Mule 4 Thread Pools and Tuning apps] 
