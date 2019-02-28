@@ -21,11 +21,11 @@ In this procedure, you configure an HTTP Listener. You set an HTTP URL consistin
 * Select Copy Link.
 * Paste the link in a browser or client and type */trigger* at the end.
 +
-. In Design Center, click image:left-angle-bracket.png[logs].
+. In Design Center, click image:http/left-angle-bracket.png[logs].
 +
 The logs appear and you see Hello.
 
 == See Also
 
-* xref:http-about-http-connector.adoc[About the HTTP Connector]
-* xref:http-documentation.adoc[HTTP Connector Technical Reference]
+* xref:http/http-about-http-connector.adoc[About the HTTP Connector]
+* xref:http/http-documentation.adoc[HTTP Connector Technical Reference]

@@ -52,4 +52,4 @@ The github information also appears correctly formatted.
 
 == See Also
 
-* xref:http-trigger-app-from-browser.adoc[To Start an App from a Browser]
+* xref:http/http-trigger-app-from-browser.adoc[To Start an App from a Browser]

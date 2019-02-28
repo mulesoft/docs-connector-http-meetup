@@ -23,6 +23,6 @@ By default, the Listener configuration connects to CloudHub using HTTP and the R
 
 == See Also
 
-* xref:http-consume-web-service.adoc[To Consume a REST Service]
-* xref:http-about-http-connector-migration.adoc[About HTTP Connector Migration]
-* xref:http-documentation.adoc[HTTP Connector Technical Reference]
+* xref:http/http-consume-web-service.adoc[To Consume a REST Service]
+* xref:http/http-about-http-connector-migration.adoc[About HTTP Connector Migration]
+* xref:http/http-documentation.adoc[HTTP Connector Technical Reference]
