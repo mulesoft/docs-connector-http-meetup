@@ -1,4 +1,4 @@
-.HTTP Connector
+.xref:http-connector.adoc[HTTP Connector]
 * xref:http-connector.adoc[HTTP Connector Introduction]
 * xref:http-about-http-request.adoc[HTTP Requests and Responses]
 * xref:http-authentication.adoc[HTTP Request Authentication]
@@ -18,4 +18,3 @@
  ** xref:http-connector-xml-reference.adoc[HTTP Connector XML Reference]
  ** xref:http-about-http-connector-migration.adoc[HTTP Connector Migration]
 * xref:http-documentation.adoc[HTTP Connector Reference]
-//.xref:http-connector.adoc[HTTP Connector]
