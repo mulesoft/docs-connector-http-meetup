@@ -1,5 +1,4 @@
-.xref:index.adoc[HTTP Connector]
-* xref:index.adoc[HTTP Connector (for Mule 4)]
+.xref:http-connector.adoc[HTTP Connector]
 * xref:http-connector.adoc[HTTP Connector]
  ** xref:http-about-http-request.adoc[HTTP Requests and Responses]
  ** xref:http-authentication.adoc[Authenticate HTTP Requests]
