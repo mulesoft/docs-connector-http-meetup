@@ -1,5 +1,5 @@
 .xref:http-connector.adoc[HTTP Connector]
-* xref:http-connector.adoc[HTTP Connector Introduction]
+* xref:index.adoc[HTTP Connector Introduction]
 * xref:http-about-http-request.adoc[HTTP Requests and Responses]
 * xref:http-authentication.adoc[HTTP Request Authentication]
 * xref:http-about-http-connector.adoc[HTTP Connector (Design Center)]
