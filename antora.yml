@@ -1,4 +1,4 @@
-name: connectors
+name: http-connector
 title: HTTP Connector
 version: '1.4'
 nav:
